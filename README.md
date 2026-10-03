@@ -6,7 +6,7 @@ python -m pip install -r requirements.txt
 python -m streamlit run app.py
 ```
 
-## Updated demo features
+## Features
 - Three genuinely different planning strategies:
   - Cost-first
   - Balanced
